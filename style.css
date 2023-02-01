@@ -40,6 +40,7 @@ p {
 .second {
     text-align: center;
     margin-top: 10%;
+    padding-bottom: 5%;
 }
 
 #box1 {
@@ -75,4 +76,152 @@ p {
 .don {
     display: flex;
     margin-bottom: 30px;
+}
+
+#form1 {
+    padding-bottom: 3%;
+}
+
+.input1 {
+    width: 50%;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid red;
+    font-size: 20px;
+}
+
+#miss {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+}
+
+#box6 {
+    width: 30%;
+    background-color: rgba(218, 253, 253, 0.897);
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#box7 {
+    width: 30%;
+    background-color: rgb(185, 166, 166);
+    margin-left: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+#box8 {
+    width: 30%;
+    background-color: rgb(214, 241, 173);
+    margin-left: 2%;
+    margin-right: 5%;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.pic img {
+    width: 50px;
+    margin-top: 30px;
+
+}
+
+.plan {
+    text-align: center;
+}
+
+#ana {
+    background-color: rgb(219, 203, 173);
+    text-align: center;
+    height: 300px;
+    width: 50%;
+    margin-left: 5%;
+
+}
+
+#pla {
+    background-color: rgb(139, 134, 134);
+    text-align: center;
+    height: 300px;
+    width: 50%;
+}
+
+#des {
+    background-color: rgb(99, 149, 168);
+    text-align: center;
+    height: 300px;
+    width: 50%;
+    margin-right: 5%;
+}
+
+#firstpara {
+    padding-bottom: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+
+#secondlastpara {
+    padding-bottom: 9%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+#lpara {
+    padding-bottom: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.button5 {
+    text-decoration: none;
+    background-image: linear-gradient(white, blue);
+    padding: 20px 40px;
+    border-radius: 10px;
+    margin-top: 100%;
+    font-weight: 800;
+    color: white;
+}
+
+#APO {
+    text-align: center;
+}
+
+.pad {
+    padding-bottom: 5%;
+}
+
+#last {
+    background-color: aqua;
+    padding: 5% 0% 5% 0%;
+    margin: 0 20% 5% 20%;
+}
+
+.input2 {
+    width: 40%;
+    border: 2px solid none;
+    font-size: 30px;
+    background-color: beige;
+
+
+}
+
+#button3 {
+    text-decoration: none;
+    background-image: linear-gradient(white, blue);
+    padding: 8px 18px;
+    font-weight: 800;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 25px 0 25px 0;
+}
+
+.fot {
+    font-family: 'Itim', cursive;
 }
